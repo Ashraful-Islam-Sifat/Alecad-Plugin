@@ -1,0 +1,9 @@
+{
+    "name": "user/alecadplugin",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "require": {}
+}
